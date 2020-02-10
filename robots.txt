@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojechuor.studioknickknack.com/sitemap.xml
